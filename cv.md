@@ -52,3 +52,9 @@
 
 * ##### _Udemy Ivan Petrichenko - Web Developer_
 * ##### _Udemy Ivan Petrichenko - JavaScript developer_
+
+---
+
+## English
+
+* ##### _B1 - Pre-Intermediate_
