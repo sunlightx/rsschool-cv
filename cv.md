@@ -36,13 +36,13 @@
 
 ## Code 
 
-```##### function reverseWords(str) {
-  str = str.split(" ");
-  let res = [];
-  for (let i = 0; i < str.length; i++) {
-    res.push(str[i].split("").reverse().join(""));
-  }
-  return res.join(" ");
+```function reverseWords(str) {  
+  str = str.split(" ");  
+  let res = [];  
+  for (let i = 0; i < str.length; i++) {  
+    res.push(str[i].split("").reverse().join(""));  
+  }  
+  return res.join(" ");  
 }
 ```
 
