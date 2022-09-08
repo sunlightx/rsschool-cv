@@ -31,3 +31,17 @@
 ## Projects
 
 * ##### _CV: [Link](https://sunlightx.github.io/rsschool-cv/cv)_
+
+---
+
+## Code 
+
+```##### function reverseWords(str) {
+  str = str.split(" ");
+  let res = [];
+  for (let i = 0; i < str.length; i++) {
+    res.push(str[i].split("").reverse().join(""));
+  }
+  return res.join(" ");
+}
+```
