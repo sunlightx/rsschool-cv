@@ -11,3 +11,9 @@
 * ##### _Email: sliepkov.1998@gmail.com_
 * ##### _GitHub: [Link](https://github.com/sunlightx)_
 * ##### _Telegram: @sunlightpx_
+
+---
+
+## About me
+
+##### _My name is Nikita and I am 19 years old. I live in the Republic of Tatarstan, in the city of Nizhnekamsk. I'm studying in college in the third year. In my free time I like to learn programming and constantly learn something new. I am not afraid to take on complex works, because I like to do what seems difficult for me, because only through constant practice and error you can learn something_
