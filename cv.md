@@ -25,3 +25,9 @@
 * ##### _Web-dev: HTML5, CSS3, JavaScript, SASS/SCSS, methodology BEM_
 * ##### _Control Version: GIT, GitHub_
 * ##### _Editors: VSCode, Sublime_
+
+---
+
+## Projects
+
+* ##### _CV: [Link](https://sunlightx.github.io/rsschool-cv/cv)_
