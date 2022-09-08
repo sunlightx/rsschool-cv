@@ -45,3 +45,10 @@
   return res.join(" ");
 }
 ```
+
+---
+
+## Education
+
+* ##### _Udemy Ivan Petrichenko - Web Developer_
+* ##### _Udemy Ivan Petrichenko - JavaScript developer_
