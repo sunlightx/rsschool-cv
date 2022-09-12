@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.container {
+    width: 1660px;
+    margin: 0 auto;
+}
+
+.menu {
+    position: fixed;
+    background-color: #000;
+    width: 100%;
+    height: 70px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.menu .menu__wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.menu .menu__logo span {
+    font-family: 'Rubik';
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: #fff;
+}
+
+.menu .menu__nav .menu__links {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    margin-right: 45px;
+}
+
+.menu .menu__nav .menu__links:last-child {
+    margin-right: 0px;
+}
+
+.main {
+    background-color: #C0FFF4;
+    display: inline-block;
+    position: relative;
+    height: 970px;
+    width: 100%;
+}
+
+.main .main__avatar {
+    display: block;
+    text-align: center;
+    margin-top: 273px;
+}
+
+.main .main__name {
+    margin-top: 23px;
+    font-family: 'Rubik';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 76px;
+    text-align: center;
+    color: #000;
+}
+
+.main .main__divider {
+    display: block;
+    margin: 0 auto;
+    background-color: #000000; 
+    height: 3px;
+    width: 229px;
+    margin-top: 23px;
+}
+
+.main .main__descr {
+    font-family: 'Rubik';
+    display: block;
+    margin: 0 auto;
+    width: 515px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    margin-top: 23px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.main i {
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+    display: inline;
+    margin-top: 140px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.main .fa-chevron-down {
+    font-size: 40px;
+}
+
+.info__wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 745px);
+    gap: 0px 170px;
+    grid-template-rows: repeat(4, minmax(370px, auto));
+    margin-top: 74px;
+}
+
+.info .info__wrapper div {
+    width: 745px;
+}
+
+.info .info__divider {
+    width: 100%;
+    height: 3px;
+    background-color: #000;
+}
+
+.info .info__title {
+    margin-top: 31px;
+    margin-left: 20px;
+    font-family: 'Rubik';
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.info .info__text {
+    margin-left: 20px;
+    margin-top: 31px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    list-style-type: none;
+}
+
+.info .info__text li {
+    margin-left: 35px;
+    margin-top: 26px;
+    position: relative;
+}
+
+.info .info__text a {
+    text-decoration: none;
+}
+
+.info .info__text li:before {
+    content: "";
+    width: 15px;
+    height: 15px;  
+    border: 3px solid #C398AD;
+    position: absolute;
+    border-radius: 100%;
+    top: 3px;
+    left: -35px;
+} 
+
+.info .edit {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
